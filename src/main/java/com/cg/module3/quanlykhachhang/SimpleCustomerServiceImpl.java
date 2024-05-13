@@ -1,5 +1,7 @@
 package com.cg.module3.quanlykhachhang;
 
+import com.cg.module3.quanlykhachhang.Customer;
+
 import java.util.ArrayList;
 import java.util.List;
 
